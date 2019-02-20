@@ -1,0 +1,6 @@
+#these files is ignored.
+foo.txt
+*.html
+!foo.html
+*.[oa]
+
